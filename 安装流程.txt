@@ -1,0 +1,8 @@
+国内文章:https://blog.csdn.net/HelloWorldZTR/article/details/109952477s
+项目文章:https://github.com/PrismarineJS/mineflayer/
+1.npm init -y 
+2.npm install mineflayer
+3.npm install mineflayer-pathfinder
+
+
+启动 node js文件
